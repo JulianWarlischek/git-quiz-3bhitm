@@ -42,7 +42,7 @@ wo die Navigation hinzugefügt wurde. Anschließend habe ich mittels git diff je
 hinzugefügt: commit "init files for quiz" a2f58c
 geändert: commit "add" a2f58c
 
-Es gibt 11 Commits durchgeführt 
+Es wurden 12 Commits durchgeführt. Man könnte dies auch mit dem Befehl git rev-list --count --all nachschauen
 
 ----------------------- 
 
